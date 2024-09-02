@@ -7,6 +7,6 @@ int factorial(int a) {
         factorial = factorial * a;
         a = a - 1;
     }
-    return factorial
+    return factorial;
 
 }
